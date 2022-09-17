@@ -4,7 +4,7 @@ jemdoc+MathJax
 
 *jemdoc+MathJax* adds the MathJax support to jemdoc.  You can use the same jemdoc syntax (and therefore no need to make any changes in your jemdoc scripts if you are an original jemdoc user), but the equations will be beautifully rendered by MathJax.  See http://web.stanford.edu/~wsshin/jemdoc+mathjax.html for more information and examples. 
 
-System requirements
+System requirements 
 -------------------
 Python 2 or Python 3
 
